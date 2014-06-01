@@ -12,6 +12,6 @@ System Requirements
 
 2. Install python3
 
-Appendex
+Appendix
 ========
 
