@@ -12,6 +12,8 @@ System Requirements
 
 2. Install python3
 
+3. Install node.js and express
+
 Appendix
 ========
 
